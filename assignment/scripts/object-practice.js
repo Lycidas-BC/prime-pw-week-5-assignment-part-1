@@ -33,7 +33,8 @@ console.log(fullName);
   - Console.log your first favorite food
   - Console.log your last favorite food
 */
-
+console.log(`my first favorite food is ${me.favThreeFoods[0]} and my last ` +
+  `favorite food is ${me.favThreeFoods[2]}`);
 
 
 /* 4. Change a property of an existing object.
