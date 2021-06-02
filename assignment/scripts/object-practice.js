@@ -55,3 +55,4 @@ console.log(`updated shoe count: ${me.shoeCount}`);
 */
 me.favoriteColor = "RebeccaPurple (#663399)"
 console.log(`favorite color: ${me.favoriteColor}`);
+//console.log(me);
